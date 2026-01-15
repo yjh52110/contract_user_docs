@@ -1,7 +1,7 @@
 阿里云百炼
 =====
 
-1.  登录 [阿里云百炼arrow-up-right](https://bailian.console.aliyun.com/?tab=model#/api-key)，没有阿里云账号的话需要注册。
+1.  登录 [阿里云百炼](https://bailian.console.aliyun.com/?tab=model#/api-key)，没有阿里云账号的话需要注册。
     
 2.  点击右上角的 `创建我的 API-KEY` 按钮。
     
@@ -44,6 +44,6 @@ circle-info
 
 如果发现模型列表中没有阿里云百炼的模型，请确认已经按照 [模型服务](/pre-basic/settings/providers) 中的介绍添加模型，并开启了这个提供商。
 
-[上一页PPIO 派欧云chevron-left](/pre-basic/providers/ppio)[下一页硅基流动chevron-right](/pre-basic/providers/siliconcloud)
+[上一页PPIO 派欧云](/pre-basic/providers/ppio)[下一页硅基流动](/pre-basic/providers/siliconcloud)
 
 最后更新于2个月前

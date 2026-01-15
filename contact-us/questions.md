@@ -1,4 +1,4 @@
-address-card商务合作
+商务合作
 ================
 
 联系人：王先生
@@ -13,12 +13,12 @@ circle-exclamation
 
 使用问题咨询，可以在官网首页底部加入我们的用户交流群，也可邮件 [\[email protected\]](/cdn-cgi/l/email-protection)
 
-或提交 issues：[https://github.com/CherryHQ/cherry-studio/issuesarrow-up-right](https://github.com/CherryHQ/cherry-studio/issues)
+或提交 issues：[https://github.com/CherryHQ/cherry-studio/issues](https://github.com/CherryHQ/cherry-studio/issues)
 
-如果您需要更多指导，可以加入我们的[知识星球arrow-up-right](https://wx.zsxq.com/group/48888118185118?group_id=48888118185118&secret=797qkk5sx94p84zr7fxp8h27rn6c35j7&inviter_id=414151881428448&inviter_sid=91n362kab4&share_from=InviteUrl&keyword=sJyfK&type=group)
+如果您需要更多指导，可以加入我们的[知识星球](https://wx.zsxq.com/group/48888118185118?group_id=48888118185118&secret=797qkk5sx94p84zr7fxp8h27rn6c35j7&inviter_id=414151881428448&inviter_sid=91n362kab4&share_from=InviteUrl&keyword=sJyfK&type=group)
 
-> 商用授权详情：[https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yiarrow-up-right](https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi)
+> 商用授权详情：[https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi](https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi)
 
-[上一页反馈 & 建议chevron-left](/question-contact/suggestions)[下一页Cherry Studio 开源许可协议chevron-right](/contact-us/questions/cherrystudio-xu-ke-xie-yi)
+[上一页反馈 & 建议](/question-contact/suggestions)[下一页Cherry Studio 开源许可协议](/contact-us/questions/cherrystudio-xu-ke-xie-yi)
 
 最后更新于9个月前

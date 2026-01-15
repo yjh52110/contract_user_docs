@@ -1,4 +1,4 @@
-square-info嵌入模型
+嵌入模型
 ===============
 
 circle-info
@@ -11,7 +11,7 @@ circle-info
 
 火山-豆包
 
-[官方模型信息参考地址arrow-up-right](https://console.volcengine.com/ark/region:ark+cn-beijing/model?feature=&projectName=default&vendor=Bytedance&view=LIST_VIEW)
+[官方模型信息参考地址](https://console.volcengine.com/ark/region:ark+cn-beijing/model?feature=&projectName=default&vendor=Bytedance&view=LIST_VIEW)
 
 名称
 
@@ -35,7 +35,7 @@ Doubao-embedding-large
 
 阿里
 
-[官方模型信息参考地址arrow-up-right](https://help.aliyun.com/zh/model-studio/user-guide/embedding?spm=a2c4g.11186623.0.i1)
+[官方模型信息参考地址](https://help.aliyun.com/zh/model-studio/user-guide/embedding?spm=a2c4g.11186623.0.i1)
 
 名称
 
@@ -67,7 +67,7 @@ text-embedding-async-v1
 
 OpenAI
 
-[官方模型信息参考地址arrow-up-right](https://platform.openai.com/docs/guides/embeddings#embedding-models)
+[官方模型信息参考地址](https://platform.openai.com/docs/guides/embeddings#embedding-models)
 
 名称
 
@@ -91,7 +91,7 @@ text-embedding-ada-002
 
 百度
 
-[官方模型信息参考地址arrow-up-right](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/om6070n97#%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0)
+[官方模型信息参考地址](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/om6070n97#%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0)
 
 名称
 
@@ -111,7 +111,7 @@ tao-8k
 
 智谱
 
-[官方模型信息参考地址arrow-up-right](https://bigmodel.cn/console/modelcenter/square)
+[官方模型信息参考地址](https://bigmodel.cn/console/modelcenter/square)
 
 名称
 
@@ -131,7 +131,7 @@ embedding-3
 
 混元
 
-[官方模型信息参考地址arrow-up-right](https://cloud.tencent.com/document/product/1729/102832)
+[官方模型信息参考地址](https://cloud.tencent.com/document/product/1729/102832)
 
 名称
 
@@ -147,7 +147,7 @@ hunyuan-embedding
 
 百川
 
-[官方模型信息参考地址arrow-up-right](https://platform.baichuan-ai.com/docs/text-Embedding)
+[官方模型信息参考地址](https://platform.baichuan-ai.com/docs/text-Embedding)
 
 名称
 
@@ -163,7 +163,7 @@ Baichuan-Text-Embedding
 
 together
 
-[官方模型信息参考地址arrow-up-right](https://docs.together.ai/docs/serverless-models#embedding-models)
+[官方模型信息参考地址](https://docs.together.ai/docs/serverless-models#embedding-models)
 
 名称
 
@@ -199,7 +199,7 @@ BGE-Base-EN-v1.5
 
 Jina
 
-[官方模型信息参考地址arrow-up-right](https://jina.ai/models/jina-embedding-b-en-v1)
+[官方模型信息参考地址](https://jina.ai/models/jina-embedding-b-en-v1)
 
 名称
 
@@ -275,7 +275,7 @@ jina-embeddings-v3
 
 硅基流动
 
-[官方模型信息参考地址arrow-up-right](https://siliconflow.cn/zh-cn/models)
+[官方模型信息参考地址](https://siliconflow.cn/zh-cn/models)
 
 名称
 
@@ -307,7 +307,7 @@ Pro/BAAI/bge-m3
 
 Gemini
 
-[官方模型信息参考地址arrow-up-right](https://ai.google.dev/gemini-api/docs/models/gemini?hl=zh-cn#text-embedding)
+[官方模型信息参考地址](https://ai.google.dev/gemini-api/docs/models/gemini?hl=zh-cn#text-embedding)
 
 名称
 
@@ -323,7 +323,7 @@ text-embedding-004
 
 nomic
 
-[官方模型信息参考地址arrow-up-right](https://docs.nomic.ai/atlas/embeddings-and-retrieval/text-embedding)
+[官方模型信息参考地址](https://docs.nomic.ai/atlas/embeddings-and-retrieval/text-embedding)
 
 名称
 
@@ -347,7 +347,7 @@ gte-multilingual-base
 
 console
 
-[官方模型信息参考地址arrow-up-right](https://console.upstage.ai/docs/capabilities/embeddings)
+[官方模型信息参考地址](https://console.upstage.ai/docs/capabilities/embeddings)
 
 名称
 
@@ -367,7 +367,7 @@ embedding-passage
 
 cohere
 
-[官方模型信息参考地址arrow-up-right](https://docs.cohere.com/docs/models#embed)
+[官方模型信息参考地址](https://docs.cohere.com/docs/models#embed)
 
 名称
 
@@ -401,7 +401,7 @@ embed-multilingual-v2.0
 
 256
 
-[上一页知识库数据chevron-left](/knowledge-base/data)[下一页文档预处理chevron-right](/knowledge-base/document-preprocessing)
+[上一页知识库数据](/knowledge-base/data)[下一页文档预处理](/knowledge-base/document-preprocessing)
 
 最后更新于28天前
 

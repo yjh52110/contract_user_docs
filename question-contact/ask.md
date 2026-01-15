@@ -1,4 +1,4 @@
-messages-question如何高效提问
+如何高效提问
 =======================
 
 Cherry Studio 是一个免费开源的项目，随着项目壮大，项目小组的工作量也日渐增多。为了减少沟通成本以及能够快速高效的解决您的问题，我们希望大家在提问之前尽可能按照以下步骤和方式来处理遇到的问题，为项目小组留出更多的时间放在项目的维护和开发上。感谢您的配合！
@@ -19,7 +19,7 @@ Cherry Studio 是一个免费开源的项目，随着项目壮大，项目小组
     
 *   务必仔细阅读每一篇文档当中的提示框内容，可以帮你避免很多问题；
     
-*   在 GitHub 的 [Issuearrow-up-right](https://github.com/CherryHQ/cherry-studio/issues) 页面查看或搜索是否有类似问题和解决方案。
+*   在 GitHub 的 [Issue](https://github.com/CherryHQ/cherry-studio/issues) 页面查看或搜索是否有类似问题和解决方案。
     
 
 [hashtag](#er-wang-luo-sou-suo-ti-wen-ai)
@@ -36,7 +36,7 @@ Cherry Studio 是一个免费开源的项目，随着项目壮大，项目小组
 
 -------------------------------------------------------------------------------------------------
 
-如果上述一、二两步并没有找到答案或者无法解决你的问题，可以到官方 [tg频道arrow-up-right](https://t.me/CherryStudioAI)、[Discord频道arrow-up-right](https://discord.com/invite/wez8HtpxqQ)、QQ群 （[一键进群arrow-up-right](https://qm.qq.com/cgi-bin/qm/qr?authKey=xe5nfGVZLMYnlJq%2F%2B4kN03YWcDBB2lnD7tc9rWus2mxS0JHUbOzk79cO7MYuqyGR&k=UKVgl3YPHmwPaU8qeO1VG03NcUkACKsc&noverify=0)）详细描述问题并寻求帮助。
+如果上述一、二两步并没有找到答案或者无法解决你的问题，可以到官方 [tg频道](https://t.me/CherryStudioAI)、[Discord频道](https://discord.com/invite/wez8HtpxqQ)、QQ群 （[一键进群](https://qm.qq.com/cgi-bin/qm/qr?authKey=xe5nfGVZLMYnlJq%2F%2B4kN03YWcDBB2lnD7tc9rWus2mxS0JHUbOzk79cO7MYuqyGR&k=UKVgl3YPHmwPaU8qeO1VG03NcUkACKsc&noverify=0)）详细描述问题并寻求帮助。
 
 1.  如果是模型报错，请提供完整的界面截图以及控制台报错信息。敏感信息可以打码处理，但是模型名称、参数设置、报错内容务必保留在截图当中。控制台报错信息查看方法 [点击这里](/question-contact/questions#kong-zhi-tai-bao-cuo-cha-kan-fang-fa)。
     
@@ -49,7 +49,7 @@ circle-check
 
 可以联系tg频道 `@Wangmouuu` 或 QQ（`1355873789`），也可以发送邮件至：`[[email protected]](/cdn-cgi/l/email-protection)`。
 
-[上一页常见问题chevron-left](/question-contact/questions)[下一页知识科普chevron-right](/question-contact/knowledge)
+[上一页常见问题](/question-contact/questions)[下一页知识科普](/question-contact/knowledge)
 
 最后更新于8个月前
 

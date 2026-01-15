@@ -19,7 +19,7 @@ Cherry Studio v1.5.7 版本引入了操作简单，强大的 Code Agent 功能�
 
 1\. 升级 Cherry Studio
 
-首先，请确保您的 Cherry Studio 已升级到 **v1.5.7** 或更高版本。您可以前往 [GitHub Releasesarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases) 或官方网站下载最新版本。
+首先，请确保您的 Cherry Studio 已升级到 **v1.5.7** 或更高版本。您可以前往 [GitHub Releases](https://github.com/CherryHQ/cherry-studio/releases) 或官方网站下载最新版本。
 
 #### 
 
@@ -159,7 +159,7 @@ circle-info
 
 希望本教程能帮助您快速上手 Cherry Studio 强大的 Code Agent 功能！
 
-[上一页调用链使用教程chevron-left](/advanced-basic/trace)[下一页Agent 使用教程chevron-right](/advanced-basic/agent)
+[上一页调用链使用教程](/advanced-basic/trace)[下一页Agent 使用教程](/advanced-basic/agent)
 
 最后更新于17天前
 

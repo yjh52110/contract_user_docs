@@ -40,12 +40,12 @@ Cherry Studio 接入流程
 
 1.  **登录平台**
     
-    *   访问 [ModelScope 官网arrow-up-right](https://modelscope.cn) → 点击右上角**登录** → 选择认证方式 ![登录界面](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-914b9cc6f8da04291beb8fc7c47f94b1698e50e8%252Fimage.png%3Falt%3Dmedia&width=300&dpr=4&quality=100&sign=76e1cbe5&sv=2)
+    *   访问 [ModelScope 官网](https://modelscope.cn) → 点击右上角**登录** → 选择认证方式 ![登录界面](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-914b9cc6f8da04291beb8fc7c47f94b1698e50e8%252Fimage.png%3Falt%3Dmedia&width=300&dpr=4&quality=100&sign=76e1cbe5&sv=2)
         
     
 2.  **创建访问令牌**
     
-    *   进入 [**账户设置 → 访问令牌**arrow-up-right](https://modelscope.cn/my/myaccesstoken)
+    *   进入 [**账户设置 → 访问令牌**](https://modelscope.cn/my/myaccesstoken)
         
     *   点击 `**新建令牌**` → 填写描述 → **复制生成的令牌**（_页面示例见下图_） ![新建令牌示例](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-087b472a2b37b3aa64c84094675555bbde27268b%252Fimage-7.png%3Falt%3Dmedia&width=300&dpr=4&quality=100&sign=56d97c17&sv=2)
         
@@ -74,7 +74,7 @@ Cherry Studio 接入流程
 
 1.  **查找支持 API 的模型**
     
-    *   访问 [ModelScope 模型库arrow-up-right](https://modelscope.cn/models)
+    *   访问 [ModelScope 模型库](https://modelscope.cn/models)
         
     *   筛选条件：**勾选** `**API-Inference**`（或认准模型卡片上的 `API` 图标） ![API 模型筛选](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-ebb4985516d5eb1c680b6acdcd483af6e9b6bb6a%252Fimage-3.png%3Falt%3Dmedia&width=300&dpr=4&quality=100&sign=2cfc8b1f&sv=2)
         
@@ -129,7 +129,7 @@ Cherry Studio 接入流程
 
 > ⚠️ 注意：推理 API-Inference 每天2000次的免费调用额度。更多调用需求可考虑使用阿里云百炼等云上服务。
 
-[上一页GitHub Copilotchevron-left](/pre-basic/providers/github-copilot)[下一页PPIO 派欧云chevron-right](/pre-basic/providers/ppio)
+[上一页GitHub Copilot](/pre-basic/providers/github-copilot)[下一页PPIO 派欧云](/pre-basic/providers/ppio)
 
 最后更新于4个月前
 

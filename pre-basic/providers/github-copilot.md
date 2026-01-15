@@ -1,7 +1,7 @@
 GitHub Copilot
 ==============
 
-使用 GitHub Copilot 需要先拥有一个 GitHub 账号，并订阅 GitHub Copilot 服务，free 版本的订阅也可以，但 free 版本不支持最新的 Claude 3.7 模型，具体请参考 [GitHub Copilot 官网arrow-up-right](https://github.com/features/copilot)。
+使用 GitHub Copilot 需要先拥有一个 GitHub 账号，并订阅 GitHub Copilot 服务，free 版本的订阅也可以，但 free 版本不支持最新的 Claude 3.7 模型，具体请参考 [GitHub Copilot 官网](https://github.com/features/copilot)。
 
 [hashtag](#huo-qu-device-code)
 
@@ -63,7 +63,7 @@ GitHub 连接成功
 
 目前使用 Axios 构建请求，Axios 不支持 socks 代理，请使用系统代理或 HTTP 代理，或者直接不在 CherryStudio 中设置代理，使用全局代理。首先请确保您的网络连接正常，以避免获取 Device Code 失败的情况。
 
-[上一页Ollamachevron-left](/pre-basic/providers/ollama)[下一页ModelScope（魔搭）chevron-right](/pre-basic/providers/modelscope)
+[上一页Ollama](/pre-basic/providers/ollama)[下一页ModelScope（魔搭）](/pre-basic/providers/modelscope)
 
 最后更新于9个月前
 

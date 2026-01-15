@@ -3440,6 +3440,6 @@ glm-4v-flash
 
 免费模型：具备强大的图片理解能力
 
-[上一页隐私协议chevron-left](/about/privacypolicy)[下一页模型榜单chevron-right](/other/lmarena)
+[上一页隐私协议](/about/privacypolicy)[下一页模型榜单](/other/lmarena)
 
 最后更新于11个月前

@@ -27,25 +27,25 @@ circle-exclamation
 
 安装版（Setup）
 
-chevron-rightx64 版本[hashtag](#x64-ban-ben)
+x64 版本[hashtag](#x64-ban-ben)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-setup.exe)】
 
-chevron-rightARM64 版本[hashtag](#arm64-ban-ben)
+ARM64 版本[hashtag](#arm64-ban-ben)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-setup.exe)】
 
 #### 
 
@@ -53,25 +53,25 @@ chevron-rightARM64 版本[hashtag](#arm64-ban-ben)
 
 便携版（Portable）
 
-chevron-rightx64 版本[hashtag](#x64-ban-ben-1)
+x64 版本[hashtag](#x64-ban-ben-1)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64-portable.exe)】
 
-chevron-rightARM64 版本[hashtag](#arm64-ban-ben-1)
+ARM64 版本[hashtag](#arm64-ban-ben-1)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64-portable.exe)】
 
 * * *
 
@@ -81,25 +81,25 @@ chevron-rightARM64 版本[hashtag](#arm64-ban-ben-1)
 
 macOS 版本
 
-chevron-rightIntel 芯片版本（x64）[hashtag](#intel-xin-pian-ban-ben-x64)
+Intel 芯片版本（x64）[hashtag](#intel-xin-pian-ban-ben-x64)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64.dmg)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64.dmg)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13.dmg)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64.dmg)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64.dmg)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13.dmg)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64.dmg)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x64.dmg)】
 
-chevron-rightApple Silicon 版本（ARM64，M 系列芯片）[hashtag](#apple-silicon-ban-ben-arm64m-xi-lie-xin-pian)
+Apple Silicon 版本（ARM64，M 系列芯片）[hashtag](#apple-silicon-ban-ben-arm64m-xi-lie-xin-pian)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.dmg)】
 
 * * *
 
@@ -109,25 +109,25 @@ chevron-rightApple Silicon 版本（ARM64，M 系列芯片）[hashtag](#apple-si
 
 Linux 版本
 
-chevron-rightx86\_64 版本[hashtag](#x8664-ban-ben)
+x86\_64 版本[hashtag](#x8664-ban-ben)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-x86_64.AppImage)】
 
-chevron-rightARM64 版本[hashtag](#arm64-ban-ben-2)
+ARM64 版本[hashtag](#arm64-ban-ben-2)
 
 主线路：
 
-【[Cherry Studio 官网arrow-up-right](https://cherry-ai.com/download)】 【[GitHubarrow-up-right](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】
+【[Cherry Studio 官网](https://cherry-ai.com/download)】 【[GitHub](https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】
 
 备用线路：
 
-【[线路1arrow-up-right](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】 【[线路2arrow-up-right](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】 【[线路3arrow-up-right](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】 【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】 【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-arm64.AppImage)】
 
 * * *
 
@@ -137,9 +137,9 @@ chevron-rightARM64 版本[hashtag](#arm64-ban-ben-2)
 
 --------------------------------------
 
-[夸克arrow-up-right](https://pan.quark.cn/s/4044324d0ecd#/list/share)
+[夸克](https://pan.quark.cn/s/4044324d0ecd#/list/share)
 
-[上一页项目简介chevron-left](/)[下一页安装教程chevron-right](/cherry-studio/installation)
+[上一页项目简介](/)[下一页安装教程](/cherry-studio/installation)
 
 最后更新于5天前
 

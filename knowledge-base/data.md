@@ -7,7 +7,7 @@ database知识库数据
 
 知识库处理流程图
 
-向量数据库：[https://turso.tech/libsqlarrow-up-right](https://turso.tech/libsql)
+向量数据库：[https://turso.tech/libsql](https://turso.tech/libsql)
 
 当文档被添加到 Cherry Studio 知识库之后，文件会被切分为若干个片段，然后这些片段会交给嵌入模型进行处理
 
@@ -15,6 +15,6 @@ database知识库数据
 
 如果对数据隐私有要求，建议使用本地嵌入数据库和本地大语言模型
 
-[上一页知识库教程chevron-left](/knowledge-base/knowledge-base)[下一页嵌入模型chevron-right](/knowledge-base/emb-models-info)
+[上一页知识库教程](/knowledge-base/knowledge-base)[下一页嵌入模型](/knowledge-base/emb-models-info)
 
 最后更新于28天前

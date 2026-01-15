@@ -1,4 +1,4 @@
-seal-question常见问题
+常见问题
 =================
 
 [hashtag](#chang-jian-cuo-wu-dai-ma)
@@ -99,7 +99,7 @@ circle-info
 *   在弹出的控制台窗口中点击 `Network` → 点击查看②处最后一个标有红色 `×` 的 `completions`_（对话类、翻译、模型连通性检查等遇到错误时）_ 或 `generations`_（绘画遇到错误时）_ → 点击`Response`查看完整的返回内容（图中④的区域）。
     
 
-> 如果你无法判断该错误的原因,请将该界面截图发送到 [官方交流群arrow-up-right](https://t.me/CherryStudioAI) 中寻求帮助。
+> 如果你无法判断该错误的原因,请将该界面截图发送到 [官方交流群](https://t.me/CherryStudioAI) 中寻求帮助。
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-6879440d3d8c0b5c77e4ac2633be134e8a7bba66%252Fimage%2520%281%29%2520%281%29%2520%281%29%2520%281%29%2520%281%29%2520%281%29%2520%281%29%2520%281%29%2520%281%29.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=825ac42b&sv=2)
 
@@ -176,7 +176,7 @@ circle-info
 
 模型具体的信息可以到对应服务商找到其信息查阅。同嵌入模型一样，不支持视觉的模型不需要强制开启图像功能，勾选了图像的选项也没有作用。
 
-[上一页贡献文档chevron-left](/contribution/docs)[下一页如何高效提问chevron-right](/question-contact/ask)
+[上一页贡献文档](/contribution/docs)[下一页如何高效提问](/question-contact/ask)
 
 最后更新于22天前
 

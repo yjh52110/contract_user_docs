@@ -1,4 +1,4 @@
-face-viewfinder文档预处理
+文档预处理
 ====================
 
 知识库文档预处理 需要将 Cherry Studio 升级至 v1.4.8 或更高版本。
@@ -53,7 +53,7 @@ face-viewfinder文档预处理
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-81f73efb4b35f8d2f2c3f359128790c2b8897ea3%252FCleanShot%25202025-06-03%2520at%252014.12.47%25402x.jpg%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=1b10f176&sv=2)
 
-[上一页嵌入模型chevron-left](/knowledge-base/emb-models-info)[下一页MCP 使用教程chevron-right](/advanced-basic/mcp)
+[上一页嵌入模型](/knowledge-base/emb-models-info)[下一页MCP 使用教程](/advanced-basic/mcp)
 
 最后更新于28天前
 

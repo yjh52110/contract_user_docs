@@ -39,6 +39,6 @@ circle-info
 *   添加模型（点击管理自动获取或手动输入）打开右上角开关即可使用。
     
 
-[上一页Vertex AIchevron-left](/pre-basic/providers/vertex-ai)[下一页OneAPIchevron-right](/pre-basic/providers/oneapi)
+[上一页Vertex AI](/pre-basic/providers/vertex-ai)[下一页OneAPI](/pre-basic/providers/oneapi)
 
 最后更新于12个月前

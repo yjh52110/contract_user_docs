@@ -7,6 +7,6 @@ file-lines贡献文档
 
 正文：填写申请理由
 
-[上一页贡献代码chevron-left](/contribution/code)[下一页常见问题chevron-right](/question-contact/questions)
+[上一页贡献代码](/contribution/code)[下一页常见问题](/question-contact/questions)
 
 最后更新于11个月前

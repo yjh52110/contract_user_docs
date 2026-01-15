@@ -1,4 +1,4 @@
-message对话界面
+对话界面
 ===========
 
 [hashtag](#zhu-shou-he-hua-ti)
@@ -428,7 +428,7 @@ circle-info
 
 `**开启消息长度限制 (MaxToken)**`
 
-单次回答最大 [Tokenarrow-up-right](https://docs.cherry-ai.com/question-contact/knowledge#shen-me-shi-tokens) 数，在大语言模型中，max token（最大令牌数）是一个关键参数，它直接影响模型生成回答的质量和长度。
+单次回答最大 [Token](https://docs.cherry-ai.com/question-contact/knowledge#shen-me-shi-tokens) 数，在大语言模型中，max token（最大令牌数）是一个关键参数，它直接影响模型生成回答的质量和长度。
 
 > 如:在CherryStudio当中填写好key后测试模型是否连通时，只需要知道模型是否有正确返回消息而不需特定内容,这种情况下设置MaxToken为1即可。
 
@@ -481,7 +481,7 @@ circle-info
 
 > 上述top-p、maxtokens、stream等参数就是这些参数之一。
 
-填法：参数名称—参数类型（文本、数字等）—值，参考文档：[点击前往arrow-up-right](https://openai.apifox.cn/doc-3222739)
+填法：参数名称—参数类型（文本、数字等）—值，参考文档：[点击前往](https://openai.apifox.cn/doc-3222739)
 
 circle-info
 
@@ -497,7 +497,7 @@ circle-info
 *   使用 参数名称:undefined 的设置可排除参数。
     
 
-[上一页功能介绍chevron-left](/cherry-studio/preview)[下一页智能体chevron-right](/cherry-studio/preview/agents)
+[上一页功能介绍](/cherry-studio/preview)[下一页智能体](/cherry-studio/preview/agents)
 
 最后更新于2个月前
 

@@ -29,6 +29,6 @@ square-code贡献代码
 
 邮件内容：申请理由
 
-[上一页Agent 使用教程chevron-left](/advanced-basic/agent)[下一页贡献文档chevron-right](/contribution/docs)
+[上一页Agent 使用教程](/advanced-basic/agent)[下一页贡献文档](/contribution/docs)
 
 最后更新于11个月前

@@ -112,7 +112,7 @@ Cherry Studio 的翻译功能为您提供快速、准确的文本翻译服务，
         
     
 
-[上一页绘画chevron-left](/cherry-studio/preview/drawing)[下一页小程序chevron-right](/cherry-studio/preview/app)
+[上一页绘画](/cherry-studio/preview/drawing)[下一页小程序](/cherry-studio/preview/app)
 
 最后更新于9个月前
 

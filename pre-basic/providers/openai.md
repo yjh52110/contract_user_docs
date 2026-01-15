@@ -7,12 +7,12 @@ OpenAI
 
 ---------------------------------------
 
-*   在官方[API Key页面arrow-up-right](https://platform.openai.com/api-keys)点击`+ Create new secret key`
+*   在官方[API Key页面](https://platform.openai.com/api-keys)点击`+ Create new secret key`
     
 
 ![Drawing](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-159901909dca352408b76ab8ab813843abe5140d%252Ffile.excalidraw%2520%281%29.svg%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=f46f1602&sv=2)
 
-*   将生成的key复制，并打开CherryStudio的[服务商设置arrow-up-right](https://github.com/CherryHQ/cherry-studio-docs/blob/main/pre-basic/providers/broken-reference/README.md)
+*   将生成的key复制，并打开CherryStudio的[服务商设置](https://github.com/CherryHQ/cherry-studio-docs/blob/main/pre-basic/providers/broken-reference/README.md)
     
 *   找到服务商OpenAI，填入刚刚获取到的key
     
@@ -29,6 +29,6 @@ circle-info
 *   需要有余额。
     
 
-[上一页CherryINchevron-left](/pre-basic/providers/cherryin-1)[下一页Google Geminichevron-right](/pre-basic/providers/google-gemini)
+[上一页CherryIN](/pre-basic/providers/cherryin-1)[下一页Google Gemini](/pre-basic/providers/google-gemini)
 
 最后更新于12个月前

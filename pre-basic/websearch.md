@@ -73,7 +73,7 @@ triangle-exclamation
 
 存在一种特殊的情况，即便模型上没带小地球标记，但是它也能实现联网，比如下面这个攻略教程解释的情况。
 
-[globe-pointer火山引擎接入联网chevron-right](/pre-basic/websearch/volcengine)
+[globe-pointer火山引擎接入联网](/pre-basic/websearch/volcengine)
 
 * * *
 
@@ -103,7 +103,7 @@ triangle-exclamation
 
 **tavily注册参考文档：**
 
-[binary-lockTavily 联网登录注册教程chevron-right](/pre-basic/websearch/tavily)
+[binary-lockTavily 联网登录注册教程](/pre-basic/websearch/tavily)
 
 显示下面的界面表示注册成功。
 
@@ -127,7 +127,7 @@ triangle-exclamation
 
 > PS：如果发现错误，欢迎大家随时联系。
 
-[上一页自定义服务商chevron-left](/pre-basic/providers/zi-ding-yi-fu-wu-shang)[下一页免费联网模式chevron-right](/pre-basic/websearch/mian-fei-lian-wang-mo-shi)
+[上一页自定义服务商](/pre-basic/providers/zi-ding-yi-fu-wu-shang)[下一页免费联网模式](/pre-basic/websearch/mian-fei-lian-wang-mo-shi)
 
 最后更新于1个月前
 

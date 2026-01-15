@@ -1,11 +1,11 @@
-cherries项目简介
+项目简介
 ============
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-31ab4eda3773fa840c2a385cef8d04539c08e851%252Fdocs-readme-banner1.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=b70c2110&sv=2)
 
-关注我们的社交账号：[推特(X)arrow-up-right](https://x.com/CherryStudioHQ)、[小红书arrow-up-right](https://www.xiaohongshu.com/user/profile/662b6853000000000b031d9a)、[微博arrow-up-right](https://weibo.com/u/7975656228)、[哔哩哔哩arrow-up-right](https://space.bilibili.com/3546657515898892)、[抖音arrow-up-right](https://www.douyin.com/user/MS4wLjABAAAAmw9A54m5J0hHVMQY5eGrVJ-EHDoOS0hgJ6M1F9MN2Tn2V163A0xrC4_KVzfmQSxC)
+关注我们的社交账号：[推特(X)](https://x.com/CherryStudioHQ)、[小红书](https://www.xiaohongshu.com/user/profile/662b6853000000000b031d9a)、[微博](https://weibo.com/u/7975656228)、[哔哩哔哩](https://space.bilibili.com/3546657515898892)、[抖音](https://www.douyin.com/user/MS4wLjABAAAAmw9A54m5J0hHVMQY5eGrVJ-EHDoOS0hgJ6M1F9MN2Tn2V163A0xrC4_KVzfmQSxC)
 
-加入我们的社群：[QQ群(575014769)arrow-up-right](https://qm.qq.com/q/lo0D4qVZKi)、[Telegramarrow-up-right](https://t.me/CherryStudioAI)、[Discordarrow-up-right](https://discord.gg/wez8HtpxqQ)、[微信群（点击查看）arrow-up-right](https://www.cherry-ai.com/#Community)
+加入我们的社群：[QQ群(575014769)](https://qm.qq.com/q/lo0D4qVZKi)、[Telegram](https://t.me/CherryStudioAI)、[Discord](https://discord.gg/wez8HtpxqQ)、[微信群（点击查看）](https://www.cherry-ai.com/#Community)
 
 * * *
 
@@ -186,33 +186,33 @@ Star History
 
 ![Cover](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-c487ecc4c8c1570e3343f35f0b9a8c5195210032%252F1.png%3Falt%3Dmedia&width=490&dpr=4&quality=100&sign=dad6dc75&sv=2)
 
-[小红书arrow-up-right](https://www.xiaohongshu.com/user/profile/662b6853000000000b031d9a?xsec_token=YB_1nKvlH4r5hPYVVbbsNHF8Y6n6AKlm5-DaggPCtd2DQ%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=662b6853000000000b031d9a&apptime=1738627324&share_id=ace5db41b5954fab8d98a2a7865a62bc&share_channel=copy_link)
+[小红书](https://www.xiaohongshu.com/user/profile/662b6853000000000b031d9a?xsec_token=YB_1nKvlH4r5hPYVVbbsNHF8Y6n6AKlm5-DaggPCtd2DQ%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=662b6853000000000b031d9a&apptime=1738627324&share_id=ace5db41b5954fab8d98a2a7865a62bc&share_channel=copy_link)
 
 [](https://b23.tv/hIfGgDW)
 
 ![Cover](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-7a1a388ea671c4faebea1a8061c55a463a2a5d83%252F3.png%3Falt%3Dmedia&width=490&dpr=4&quality=100&sign=c30505f0&sv=2)
 
-[哔哩哔哩arrow-up-right](https://b23.tv/hIfGgDW)
+[哔哩哔哩](https://b23.tv/hIfGgDW)
 
 [](https://weibo.com/u/7975656228)
 
 ![Cover](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-44e5aab291483ab1e3d3736d840cb99f258fbd0c%252F2.png%3Falt%3Dmedia&width=490&dpr=4&quality=100&sign=1efd323a&sv=2)
 
-[微博arrow-up-right](https://weibo.com/u/7975656228)
+[微博](https://weibo.com/u/7975656228)
 
 [](https://v.douyin.com/ifTpX4X7)
 
 ![Cover](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-11d01e4b0644b9bf9ca6ec5ca178c8b8f76f91f2%252F4.png%3Falt%3Dmedia&width=490&dpr=4&quality=100&sign=cd6c5276&sv=2)
 
-[抖音arrow-up-right](https://v.douyin.com/ifTpX4X7)
+[抖音](https://v.douyin.com/ifTpX4X7)
 
 [](https://x.com/CherryStudioHQ?t=DYR0ulaLur-bO4Us3bG79A&s=05)
 
 ![Cover](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-622d890b3db36c23242bbc871335df7ba255a232%252F5.png%3Falt%3Dmedia&width=490&dpr=4&quality=100&sign=2f976da1&sv=2)
 
-[推特(X)arrow-up-right](https://x.com/CherryStudioHQ?t=DYR0ulaLur-bO4Us3bG79A&s=05)
+[推特(X)](https://x.com/CherryStudioHQ?t=DYR0ulaLur-bO4Us3bG79A&s=05)
 
-[下一页客户端下载chevron-right](/cherry-studio/download)
+[下一页客户端下载](/cherry-studio/download)
 
 最后更新于28天前
 

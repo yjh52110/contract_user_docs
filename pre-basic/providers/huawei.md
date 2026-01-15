@@ -1,13 +1,13 @@
 华为云
 ===
 
-一、到[华为云arrow-up-right](https://auth.huaweicloud.com/authui/login)创建账号登录
+一、到[华为云](https://auth.huaweicloud.com/authui/login)创建账号登录
 
-二、点击[此链接arrow-up-right](https://console.huaweicloud.com/modelarts/?region=cn-southwest-2#/model-studio/homepage)，进入Maa S控制台
+二、点击[此链接](https://console.huaweicloud.com/modelarts/?region=cn-southwest-2#/model-studio/homepage)，进入Maa S控制台
 
 三、授权
 
-chevron-right授权步骤（已授权跳过）[hashtag](#shou-quan-bu-zhou-yi-shou-quan-tiao-guo)
+授权步骤（已授权跳过）[hashtag](#shou-quan-bu-zhou-yi-shou-quan-tiao-guo)
 
 1.  进入(二)的链接页面后，根据提示进入授权页面(点击IAM子用户→新增委托→普通用户)
     
@@ -53,7 +53,7 @@ chevron-right授权步骤（已授权跳过）[hashtag](#shou-quan-bu-zhou-yi-sh
 
 并在结尾加上“#”号
 
-为什么加“#”号[看这里arrow-up-right](https://docs.cherry-ai.com/cherrystudio/preview/settings/providers#api-di-zhi)
+为什么加“#”号[看这里](https://docs.cherry-ai.com/cherrystudio/preview/settings/providers#api-di-zhi)
 
 > 当然也可以不看那里，直接按照教程操作即可；
 > 
@@ -75,6 +75,6 @@ circle-info
 
 在华为云当中由于每个模型的地址不一样，所以每个模型都需要新建一个服务商，按照以上步骤重复操作即可。
 
-[上一页火山引擎chevron-left](/pre-basic/providers/doubao)[下一页无问芯穹chevron-right](/pre-basic/providers/wu-wen-xin-qiong)
+[上一页火山引擎](/pre-basic/providers/doubao)[下一页无问芯穹](/pre-basic/providers/wu-wen-xin-qiong)
 
 最后更新于11个月前

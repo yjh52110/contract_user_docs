@@ -1,4 +1,4 @@
-user-shield隐私协议
+隐私协议
 ===============
 
 欢迎使用 Cherry Studio（以下简称“本软件”或“我们”）。我们高度重视您的隐私保护，本隐私协议将说明我们如何处理与保护您的个人信息和数据。请在使用本软件前仔细阅读并理解本协议：
@@ -73,7 +73,7 @@ user-shield隐私协议
 
 感谢您选择并信任 Cherry Studio，我们将持续为您提供安全可靠的产品体验。
 
-[上一页Cherry Studio 开源许可协议chevron-left](/contact-us/questions/cherrystudio-xu-ke-xie-yi)[下一页模型数据chevron-right](/other/models-info)
+[上一页Cherry Studio 开源许可协议](/contact-us/questions/cherrystudio-xu-ke-xie-yi)[下一页模型数据](/other/models-info)
 
 最后更新于7个月前
 

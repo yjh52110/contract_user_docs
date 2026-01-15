@@ -23,7 +23,7 @@ circle-info
 
 如果为 Apple M\* 芯片则下载 Apple 芯片安装包
 
-[![Logo](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2Fwww.cherry-ai.com%2Fassets%2Ffavicon-BmbgeFTf.png&width=20&dpr=4&quality=100&sign=3576072&sv=2)Cherry Studio - 全能的多模型 AI 助手Cherry Studiochevron-right](https://cherry-ai.com/download)
+[![Logo](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2Fwww.cherry-ai.com%2Fassets%2Ffavicon-BmbgeFTf.png&width=20&dpr=4&quality=100&sign=3576072&sv=2)Cherry Studio - 全能的多模型 AI 助手Cherry Studio](https://cherry-ai.com/download)
 
 1.  下载完成后点击这里
     
@@ -39,6 +39,6 @@ circle-info
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-5602cf96319d6699c905ce3ec2f3336974d6c4b3%252FMac%25E5%25AE%2589%25E8%25A3%2585%25E6%2588%2590%25E5%258A%259F.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=b394658&sv=2)
 
-[上一页Windowschevron-left](/cherry-studio/installation/windows)[下一页功能介绍chevron-right](/cherry-studio/preview)
+[上一页Windows](/cherry-studio/installation/windows)[下一页功能介绍](/cherry-studio/preview)
 
 最后更新于28天前

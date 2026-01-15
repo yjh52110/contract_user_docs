@@ -86,7 +86,7 @@ Step 3：添加知识库
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-716376ab3f2030a6ab3c21a941554f761ccc7e2c%252F3.gif%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=975ea27a&sv=2)
 
-[上一页华为云chevron-left](/pre-basic/providers/huawei)[下一页自定义服务商chevron-right](/pre-basic/providers/zi-ding-yi-fu-wu-shang)
+[上一页华为云](/pre-basic/providers/huawei)[下一页自定义服务商](/pre-basic/providers/zi-ding-yi-fu-wu-shang)
 
 最后更新于2个月前
 

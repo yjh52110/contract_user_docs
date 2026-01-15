@@ -51,7 +51,7 @@ Ollama 是一个简化大型语言模型（LLM）部署和使用的工具。它�
 
 首先，您需要在您的计算机上安装并运行 Ollama。请按照以下步骤操作：
 
-*   **下载 Ollama：** 访问 Ollama 官网（[https://ollama.com/arrow-up-right](https://ollama.com/)），根据您的操作系统下载对应的安装包。 在 Linux 下，可直接运行命令安装ollama：
+*   **下载 Ollama：** 访问 Ollama 官网（[https://ollama.com/](https://ollama.com/)），根据您的操作系统下载对应的安装包。 在 Linux 下，可直接运行命令安装ollama：
     
 *   **安装 Ollama：** 按照安装程序的指引完成安装。
     
@@ -139,7 +139,7 @@ Ollama 是一个简化大型语言模型（LLM）部署和使用的工具。它�
 *   **Ollama 文档**: 可以点击配置页面中的`查看Ollama文档和模型`链接快速跳转至Ollama官网文档。
     
 
-[上一页OneAPIchevron-left](/pre-basic/providers/oneapi)[下一页GitHub Copilotchevron-right](/pre-basic/providers/github-copilot)
+[上一页OneAPI](/pre-basic/providers/oneapi)[下一页GitHub Copilot](/pre-basic/providers/github-copilot)
 
 最后更新于10个月前
 

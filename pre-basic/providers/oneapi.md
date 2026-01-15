@@ -46,6 +46,6 @@ circle-check
 
 OneAPI其他主题可能界面有所不同，但添加方法跟上述操作流程一致。
 
-[上一页NewAPIchevron-left](/pre-basic/providers/newapi)[下一页Ollamachevron-right](/pre-basic/providers/ollama)
+[上一页NewAPI](/pre-basic/providers/newapi)[下一页Ollama](/pre-basic/providers/ollama)
 
 最后更新于2个月前

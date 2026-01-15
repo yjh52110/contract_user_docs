@@ -4774,7 +4774,7 @@ CC-BY-NC-SA-4.0
 
 ------------------------------------------------------------
 
-本排行榜数据由自动化脚本直接从 1 [2arrow-up-right](https://lmarena.ai/) 官方网站获取。此排行榜由 GitHub Actions 每天自动更新。
+本排行榜数据由自动化脚本直接从 1 [2](https://lmarena.ai/) 官方网站获取。此排行榜由 GitHub Actions 每天自动更新。
 
 [hashtag](#mian-ze-sheng-ming)
 
@@ -4784,7 +4784,7 @@ CC-BY-NC-SA-4.0
 
 本报告仅供参考。排行榜数据是动态变化的，并基于特定时间段内用户在 Chatbot Arena 上的偏好投票。数据的完整性和准确性取决于上游数据源。不同模型可能采用不同的许可协议，使用时请务必参考模型提供商的官方说明。
 
-[上一页模型数据chevron-left](/other/models-info)
+[上一页模型数据](/other/models-info)
 
 最后更新于16小时前
 

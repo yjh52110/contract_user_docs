@@ -7,7 +7,7 @@ route调用链使用教程
 
 ----------------------------------------
 
-调用链（又称“trace”）为用户提供对话的洞察能力，帮助用户觉察模型、知识库、MCP、网络搜索等在对话过程中的具体表现。它是一个基于 [OpenTelemetryarrow-up-right](https://opentelemetry.io/docs/languages/js/) 实现的可观测工具，通过端侧采集、存储、处理数据实现可视化，为定位问题、优化效果提供量化评估依据。
+调用链（又称“trace”）为用户提供对话的洞察能力，帮助用户觉察模型、知识库、MCP、网络搜索等在对话过程中的具体表现。它是一个基于 [OpenTelemetry](https://opentelemetry.io/docs/languages/js/) 实现的可观测工具，通过端侧采集、存储、处理数据实现可视化，为定位问题、优化效果提供量化评估依据。
 
 每次对话对应一条 trace 数据，一条 trace 由多个 span 组成，每个 span 对应 Cherry Studio 的一个程序处理逻辑如调用模型会话、调用 MCP 、调用知识库、调用网络搜索等。trace 以树结构展示，span 为树节点，主要数据包括耗时、token 使用量，当然在 span 详情还可以查看其具体的输入输出。
 
@@ -101,11 +101,11 @@ route调用链使用教程
 
 ----------------------------------------
 
-当前功能由阿里云 [EDASarrow-up-right](https://www.aliyun.com/product/edas) 团队提供，如有问题或建议，请进入钉钉群 （ 群号： 21958624 ） 与开发者进行深度沟通。
+当前功能由阿里云 [EDAS](https://www.aliyun.com/product/edas) 团队提供，如有问题或建议，请进入钉钉群 （ 群号： 21958624 ） 与开发者进行深度沟通。
 
 \\
 
-[上一页常见问题chevron-left](/advanced-basic/mcp/chang-jian-wen-ti)[下一页Code Tools 使用教程chevron-right](/advanced-basic/code-tools-shi-yong-jiao-cheng)
+[上一页常见问题](/advanced-basic/mcp/chang-jian-wen-ti)[下一页Code Tools 使用教程](/advanced-basic/code-tools-shi-yong-jiao-cheng)
 
 最后更新于28天前
 

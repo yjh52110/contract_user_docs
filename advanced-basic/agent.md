@@ -49,7 +49,7 @@ circle-info
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-bd2fcce9c58023771bb55346670f03d6fcb0ab8f%252FCleanShot%25202025-10-12%2520at%252020.30.26%25402x.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=67ede0c2&sv=2)
 
-[上一页Code Tools 使用教程chevron-left](/advanced-basic/code-tools-shi-yong-jiao-cheng)[下一页贡献代码chevron-right](/contribution/code)
+[上一页Code Tools 使用教程](/advanced-basic/code-tools-shi-yong-jiao-cheng)[下一页贡献代码](/contribution/code)
 
 最后更新于2个月前
 

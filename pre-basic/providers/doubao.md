@@ -1,9 +1,9 @@
 火山引擎
 ====
 
-*   登录 [火山引擎arrow-up-right](https://console.volcengine.com/)
+*   登录 [火山引擎](https://console.volcengine.com/)
     
-*   直接点击 [这里直达arrow-up-right](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D)
+*   直接点击 [这里直达](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D)
     
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-a6376679ba0507c4eb571aa8f5158368a44ce773%252Fimage%2520%281%29%2520%281%29%2520%282%29.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=c164f4e9&sv=2)
@@ -14,7 +14,7 @@
 
 获取API Key
 
-*   点击侧栏下方的 [API Key管理arrow-up-right](https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey)
+*   点击侧栏下方的 [API Key管理](https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey)
     
 *   创建 API Key
     
@@ -37,12 +37,12 @@
 
 开通并添加模型
 
-*   在方舟控制台侧栏最下方的 [开通管理arrow-up-right](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D&OpenTokenDrawer=false) 开通需要使用的模型，这里可以按需开通豆包系列和 DeepSeek 等模型。
+*   在方舟控制台侧栏最下方的 [开通管理](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D&OpenTokenDrawer=false) 开通需要使用的模型，这里可以按需开通豆包系列和 DeepSeek 等模型。
     
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-df1f031bf318217d967d5559c5c9e9a5b62ff349%252Fimage%2520%281%29%2520%281%29%2520%282%29%2520%281%29.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=73738808&sv=2)
 
-*   在 [模型列表文档arrow-up-right](https://www.volcengine.com/docs/82379/1330310#%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90) 里，找到所需模型对应的 模型ID。
+*   在 [模型列表文档](https://www.volcengine.com/docs/82379/1330310#%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90) 里，找到所需模型对应的 模型ID。
     
 
 ![火山引擎模型ID列表示例](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-a93ede69c85506e59181c40d40aea56f94c764f5%252F%25E7%2581%25AB%25E5%25B1%25B1%25E5%25BC%2595%25E6%2593%258E_%25E6%25A8%25A1%25E5%259E%258BID.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=e0b937cf&sv=2)
@@ -80,7 +80,7 @@ circle-info
 
 官方文档cURL示例
 
-[上一页硅基流动chevron-left](/pre-basic/providers/siliconcloud)[下一页华为云chevron-right](/pre-basic/providers/huawei)
+[上一页硅基流动](/pre-basic/providers/siliconcloud)[下一页华为云](/pre-basic/providers/huawei)
 
 最后更新于7个月前
 

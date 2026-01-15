@@ -71,7 +71,7 @@ circle-info
 *   **反馈与改进：** 如果您在使用过程中遇到任何问题或有任何改进建议，请及时向 Cherry Studio 团队 [反馈](/question-contact/suggestions)。
     
 
-[上一页文件chevron-left](/cherry-studio/preview/files)[下一页模型服务chevron-right](/pre-basic/providers)
+[上一页文件](/cherry-studio/preview/files)[下一页模型服务](/pre-basic/providers)
 
 最后更新于9个月前
 

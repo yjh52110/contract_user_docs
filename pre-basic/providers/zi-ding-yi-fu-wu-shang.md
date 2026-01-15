@@ -108,7 +108,7 @@ Cherry Studio 不仅集成了主流的 AI 模型服务，还赋予了您强大�
 
 vLLM 是一个类似Ollama的快速且易于使用的 LLM 推理库。以下是如何将 vLLM 集成到 Cherry Studio 中的步骤：
 
-1.  **安装 vLLM：** 按照 vLLM 官方文档（[https://docs.vllm.ai/en/latest/getting\_started/quickstart.htmlarrow-up-right](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)）安装 vLLM。
+1.  **安装 vLLM：** 按照 vLLM 官方文档（[https://docs.vllm.ai/en/latest/getting\_started/quickstart.html](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)）安装 vLLM。
     
 2.  **启动 vLLM 服务：** 使用 vLLM 提供的 OpenAI 兼容接口启动服务。主要有两种方式，分别如下：
     
@@ -157,7 +157,7 @@ vLLM 是一个类似Ollama的快速且易于使用的 LLM 推理库。以下是�
 *   **模型按需添加:** 请只添加您实际上会用到的模型, 避免添加过多无用模型.
     
 
-[上一页无问芯穹chevron-left](/pre-basic/providers/wu-wen-xin-qiong)[下一页联网模式chevron-right](/pre-basic/websearch)
+[上一页无问芯穹](/pre-basic/providers/wu-wen-xin-qiong)[下一页联网模式](/pre-basic/websearch)
 
 最后更新于8个月前
 

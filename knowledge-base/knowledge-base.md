@@ -1,4 +1,4 @@
-book-open-cover知识库教程
+知识库教程
 ====================
 
 在 0.9.1 版本中，CherryStudio 带来了期待已久的知识库功能。
@@ -64,9 +64,9 @@ CherryStudio 支持多种添加数据的方式：
 
 1.  文件夹目录：可以添加整个文件夹目录，该目录下支持格式的文件会被自动向量化；
     
-2.  网址链接：支持网址 url，如[https://docs.siliconflow.cn/introductionarrow-up-right](https://docs.siliconflow.cn/introduction)；
+2.  网址链接：支持网址 url，如[https://docs.siliconflow.cn/introduction](https://docs.siliconflow.cn/introduction)；
     
-3.  站点地图：支持 xml 格式的站点地图，如[https://docs.siliconflow.cn/sitemap.xmlarrow-up-right](https://docs.siliconflow.cn/sitemap.xml)；
+3.  站点地图：支持 xml 格式的站点地图，如[https://docs.siliconflow.cn/sitemap.xml](https://docs.siliconflow.cn/sitemap.xml)；
     
 4.  纯文本笔记：支持输入纯文本的自定义内容。
     
@@ -79,14 +79,14 @@ circle-info
     
 2.  使用网址作为知识库来源时不一定会成功，有些网站有比较严格的反扒机制（或需要登录、授权等），因此该方式不一定能获取到准确内容。创建完成后建议先搜索测试一下。
     
-3.  一般网站都会提供sitemap，如CherryStudio的[sitemaparrow-up-right](https://docs.cherry-ai.com/sitemap-pages.xml)，一般情况下在网站的根地址（即网址）后加/sitemap.xml可以获取到相关信息。如`aaa.com/sitemap.xml` 。
+3.  一般网站都会提供sitemap，如CherryStudio的[sitemap](https://docs.cherry-ai.com/sitemap-pages.xml)，一般情况下在网站的根地址（即网址）后加/sitemap.xml可以获取到相关信息。如`aaa.com/sitemap.xml` 。
     
 4.  如果网站没提供sitemap或者网址比较杂可自行组合一个sitemap的xml文件使用，文件暂时需要使用公网可直接访问的直链的方式填入，本地文件链接不会被识别。
     
 
 > 1.  可以让AI生成sitemap文件或让AI写一个sitemap的HTML生成器工具；
 >     
-> 2.  直链可以使用oss直链或者网盘直链等方式来生成。如果没有现成工具也可到[ocoolAIarrow-up-right](https://one.ocoolai.com/login)官网，登录后使用网站顶栏的免费文件上传工具来生成直链。
+> 2.  直链可以使用oss直链或者网盘直链等方式来生成。如果没有现成工具也可到[ocoolAI](https://one.ocoolai.com/login)官网，登录后使用网站顶栏的免费文件上传工具来生成直链。
 >     
 
 [hashtag](#sou-suo-zhi-shi-ku)
@@ -127,7 +127,7 @@ circle-info
 
 ![](https://docs.cherry-ai.com/~gitbook/image?url=https%3A%2F%2F3562065924-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F0Ut5BptC3t8CtSU1UWpM%252Fuploads%252Fgit-blob-d74289fd35eecc143d2938b75a34defbdbe108bf%252Fimage-10.webp%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=72885278&sv=2)
 
-[上一页清除 CSS 设置chevron-left](/pre-basic/personalization-settings/clear-css)[下一页知识库数据chevron-right](/knowledge-base/data)
+[上一页清除 CSS 设置](/pre-basic/personalization-settings/clear-css)[下一页知识库数据](/knowledge-base/data)
 
 最后更新于2个月前
 
